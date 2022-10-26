@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1572392777 source:c:\users\amine\desktop\projet cs\serveur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	"function.h"
+
+1572392777 c:\users\amine\desktop\projet cs\serveur\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<time.h>
+
+1572722289 source:c:\users\amine\desktop\projet cs ait kbir\serveur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	"function.h"
+
+1572722289 c:\users\amine\desktop\projet cs ait kbir\serveur\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<time.h>
+
+1572794285 source:c:\users\lenovo\documents\projets\client-serveur\projet cs ait kbir\serveur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	"function.h"
+
+1572793668 c:\users\lenovo\documents\projets\client-serveur\projet cs ait kbir\serveur\function.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+	<time.h>
+

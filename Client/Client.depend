@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572385629 source:c:\users\amine\desktop\client\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+	<sys/types.h>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<fcntl.h>
+
