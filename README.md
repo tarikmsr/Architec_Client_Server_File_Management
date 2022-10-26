@@ -8,3 +8,8 @@ Indeed, the server manages a list of users and their contacts. Concerning the cl
 
 # Presentation file
 https://github.com/tarikmsr/DocumentLink/blob/main/Client%20-Server%20project%20--%20gestion%20des%20contacts.pdf
+
+
+# requires
+codeblocks 
+cygwin (if you want to use it on windows)
